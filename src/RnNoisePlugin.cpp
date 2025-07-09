@@ -1,4 +1,4 @@
-#include "RnNoiseCommonPlugin.h"
+#include "RnNoisePlugin.h"
 
 #include <cstring>
 #include <limits>

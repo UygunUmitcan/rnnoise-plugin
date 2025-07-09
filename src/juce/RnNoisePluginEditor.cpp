@@ -1,6 +1,6 @@
 #include "RnNoiseAudioProcessor.h"
 #include "RnNoisePluginEditor.h"
-#include "RnNoiseCommonPlugin.h"
+#include "RnNoisePlugin.h"
 
 #include <memory>
 

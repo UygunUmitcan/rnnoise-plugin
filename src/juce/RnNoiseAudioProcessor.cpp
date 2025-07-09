@@ -1,7 +1,7 @@
 #include "RnNoiseAudioProcessor.h"
 #include "RnNoisePluginEditor.h"
 
-#include "RnNoiseCommonPlugin.h"
+#include "RnNoisePlugin.h"
 
 //==============================================================================
 RnNoiseAudioProcessor::RnNoiseAudioProcessor()
