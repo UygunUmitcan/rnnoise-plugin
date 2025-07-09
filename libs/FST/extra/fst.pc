@@ -1,0 +1,14 @@
+# FST pkg-config file
+
+prefix=/usr
+exec_prefix=${prefix}
+libdir=/usr/lib
+includedir=${prefix}/include
+
+###############################
+# core configuration
+Name: fst
+Description: Free Studio Technology
+Version: 0.177.0
+Cflags: -I${includedir}/pluginterfaces -I${includedir}/pluginterfaces/fst
+Libs:

@@ -1,0 +1,10 @@
+*~
+/JUCE/
+/REAPER/
+/tmp/
+*.log
+/_build*/
+
+Builds/
+JuceLibraryCode/
+*.so
